@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "ProductName": "Laptop",
+      "Quantity": 5,
+      "Price": 899.99,
+      "Description": "High-performance laptop with 16GB RAM"
+    },
+    {
+      "id": "2",
+      "ProductName": "Smartphone",
+      "Quantity": 10,
+      "Price": 599.99,
+      "Description": "Latest smartphone with 128GB storage"
+    },
+    {
+      "id": "Ie-UZDeM-HvXz_Gv31d0A",
+      "ProductName": "Lenovo",
+      "Quantity": 5,
+      "Price": 123.77,
+      "Description": "Lenovo laptop"
+    }
+  ]
+}
